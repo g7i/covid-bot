@@ -1,0 +1,159 @@
+# RASA Domain file
+
+intents:
+  - greet
+  - goodbye
+  - about_corona
+  - who_name
+  - symptoms_corona
+  - incubation
+  - close_contact
+  - wrong_spread
+  - status_thing
+  - risk_who
+  - precautions_infected
+  - home_quarantined
+  - test_positive
+  - vaccine_availablity
+  - myth_vaccine
+  - recur_corona
+  - pregnant_child
+  - testing_centers
+  - corona_survive
+  - corona_goods
+  - corona_animals
+  - wash_hands
+  - time_wash
+  - mask_wear
+  - mask_change
+  - colleague
+  - hospitals_infected
+  - temperature_effect
+  - avoid_malls
+  - social_distancing
+  - yoga
+  - blood_donor
+  - drink_hot
+  - soap_sanitizers
+  - clean_door
+  - cloth_infection
+  - precaution_pregnant
+  - flight
+  - immunity_indians
+  - smoking
+  - alcohol
+  - when_test
+  - emergency_symptoms
+  - stigma
+  - funeral
+  - deadbody
+  - pets
+  - infected_pets
+  - eat_nonveg
+  - currency
+  - drink_water
+  - lightly
+  - breat_milk
+  - protect_children
+  - symptoms_children
+  - school_dismissal
+  - study_loss
+  - water_spreading
+  - pool
+  - sewarage
+  - hiv
+  - hiv_medicine
+  - asthama
+  - origin
+  - how_test
+  - test_cost
+  - self_go
+  - test_strategy
+  - test_process
+
+actions:
+  - utter_greet
+  - utter_happy
+  - utter_cheer_up
+  - utter_goodbye
+  - action_joke
+  - utter_default
+  - action_corona_about
+  - action_corona_who
+  - action_corona_symptoms
+  - action_corona_incubation
+  - action_corona_close
+  - action_wrong_spread
+  - action_stay_things
+  - action_risky
+  - action_infected_precautions
+  - action_home_quarantined
+  - action_test_positive
+  - action_vaccine_available
+  - action_myth_vaccine
+  - action_recur_corona
+  - action_pregnant_child
+  - action_testing_centers
+  - action_corona_survive
+  - action_corona_goods
+  - action_animal_infection
+  - action_wash_hands
+  - action_time_wash
+  - action_mask_wear
+  - action_mask_change
+  - action_colleauge
+  - action_hospitals_infected
+  - action_temperature_effect
+  - action_avoid_malls
+  - action_social_distancing
+  - action_yoga
+  - action_blood_donor
+  - action_drink_hot
+  - action_soap_sanitizers
+  - action_clean_door
+  - action_cloth_infection
+  - action_precaution_pregnant
+  - action_flight
+  - action_immunity_indians
+  - action_smoking
+  - action_alcohol
+  - action_when_test
+  - action_emergency_symptoms
+  - action_stigma
+  - action_funeral
+  - action_deadbody
+  - action_pets
+  - action_infected_pets
+  - action_eat_nonveg
+  - action_currency
+  - action_drink_water
+  - action_lighltly
+  - action_breat_milk
+  - action_protect_children
+  - action_symptoms_children
+  - action_school_dismissal
+  - action_study_loss
+  - action_water_spreading
+  - action_pool
+  - action_hiv
+  - action_hiv_medicine
+  - action_asthama
+  - action_sewarage
+  - action_how_test
+  - action_test_cost
+  - action_origin
+  - action_self_go
+  - action_test_strategy
+  - action_test_process
+
+templates:
+  utter_greet:
+    - text: "Hi, how is it going?"
+  utter_happy:
+    - text: "Great, carry on!"
+  utter_cheer_up:
+    - text: "Don't be sad. Keep smiling!"
+  utter_goodbye:
+    - text: "Goodbye!"
+  utter_default:
+    - text: "Hi, I am a stupid bot!"
