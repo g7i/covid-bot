@@ -12,235 +12,594 @@
 - see you around
 - see you later
 
-
-## intent:about_corona
-- about corona virus
-- about covid-19
-- what is corona virus or covid-19
-- need to fear from corona virus- mortality rate
-- novel virus- new virus
-
+## intent:about corona
+- what is corona virus
+- what is coronavirus
+- what is covid 
+- fear 
+- mortality 
+- novel 
+-Tell me about corona
+- define 
+- about
+- tell 
+- panic
+- tense 
+- worried
+- worry
 ## intent:who_name
-- name given by who or world health organisation
-- corona virus called
-- called  epidemic or panidemic
+- coronavirus
+- covid
+- corona
+- corona virus
+- name 
+- w.h.o  
+- world health organisation
+- other name  
+- called  
+- epidemic 
+- panidemic
+- second 
 
 ## intent:symptoms_corona
-- symptoms of corona
-- suffering from corona
-- have corona virus infection
-- identify other have corona
-- difference between cold or flu & corona
+- coronavirus
+- covid
+- corona
+- corona virus
+- symptoms
+- symptom  
+- sign  
+- identify that 
+- other have corona
+- cold 
+- flu 
+- someone 
+- other 
+- another person 
+- other person 
+- my friend 
+- family member
+- infected from 
+- know
+- have
+- another
+- came to
+- detect
+- investigate
+- identify
+- infection
 
 ## intent:incubation
-- incubation period
-- in how much long does symptoms
-- how much days  corona symptoms
-- how much time
+- coronavirus
+- covid
+- corona
+- corona virus
+- incubation 
+- period
+- how  
+- days 
+- many
+- how much 
+- time
+- appear 
+- symptom 
+- someone 
+- have
+- show 
+- other person
+- another 
+- detect
+- when 
 
 ## intent:close_contact
-- close contact in corona virus
-- sex relation
-- how  corona virus  spread
-- touch the surface
-- touch doors
-- touch objects,things
-- how i infected from corona virus
+- closecontact 
+- coronavirus
+- covid
+- corona
+- corona virus
+- close contact
+- sex 
+- relation
+- spread
+- touch 
+- surface
+- door
+- things
+- object
+- touching the
+- how it 
+- furniture
+- door
+- knob
 
 ## intent:wrong_spread
+- coronavirus
+- covid
+- corona
+- corona virus
 - colony
-- entire colony
-- entire city
-- whole society
-- entire state
+- city
+- whole 
+- state
+- community
+- someone 
+- person
+- anyone
+- have
+- other person
+- infection
 
 ## intent:status_things
-- things infected
--  objects infected
-- someone have touch  things,door,furniture,window
-- infected things
+- coronavirus
+- covid
+- corona
+- corona virus
+- infected
+- object
+- someone
+- other
+- know 
+- things
+- before
+- touch
+- home 
+- materials
+- touch
+- person
+- anyone 
+- other person
+- have
+- another
+- i know that 
+- detect
+- identify 
+- furniture
+- door
+- knob
 
 ## intent:risk_who
-- more risk in
-- old person
-- large age
-- elder, grandfather & mother
+- coronavirus
+- covid
+- corona
+- corona virus
+- risk 
+- elder
+- large
+- age
 - more age
-- child or baby
-- diabetes,blood pressure,hypertension,heart disease
-- new born baby
+- child 
+- baby
+- diabetes
+- blood pressure
+- hypertension
+- heart disease
+- tense 
+- worried
+- worry
+- newborn 
+- group
+- prove risky
+- someone
+- have
+- symptom
+- infection
+- affect
+- human
+
 ## intent:precautions_infected
-- special precautions for corona infected
-- precaution for infected from corona virus infection
-- what should do in corona virus infection
-- i am corona infected
-- precautions  for infected
+- coronavirus
+- covid
+- corona
+- corona virus
+- special 
+- precaution
+- what should  
+- steps
+- prevention
+- what steps
+- symptoms
+- have
+- someone
+- family 
+- infection
+- infected
+- measurement
+- anyone 
+- if i have
+- doubt 
+- during 
+- avoid
+- preventive measure
 
 ## intent:home_quarantined
-- home quarantined,lock down
+- home quarantine
+- lock down
 - isolated
-- make myself or yourself alone
+- make myself 
+- yourself 
+- alone
 
 ## intent:test_positive
-- after home quarantined
-- test report positive
-- my report positive
-- infected & quarantined
+- coronavirus
+- covid
+- corona
+- corona virus
+- after home quarantine
+- test  positive
+- report positive
+- infected 
+- quarantine
+- what should
+- when my report
+- symptom 
 
 ## intent:vaccine_availablity
-- vaccine available
-- any medicine
-- when vaccine will come or available
+- coronavirus
+- covid
+- corona
+- corona virus
+- vaccine 
+- available
+- medicine
+- when 
+- will 
+- come
+
 ## intent:myth_vaccine
+- coronavirus
+- covid
+- corona
+- corona virus
 - penicilin
 - antibiotic
-- pneumonia,ayurvedic medicine
+- pneumonia
+- ayurvedic 
+- medicine
 - anti malaria
-- cured
+- paracitamol
+- cold 
+- flu 
+- cough syrup
+
 ## intent:recur_corona
+- coronavirus
+- covid
+- corona
+- corona virus
 - recur corona
-- after treatment recur
-- chances of recur
-- again  corona
-- reback corona virus
+- after 
+- treatment 
+- recur
+- chances 
+- recur
+- again 
+- symptom
+- develop
+- reback 
+- infected
 
 ## intent:pregnant_child
-- pregnant woman
-- pregnant woman child
-- chances of corona in baby
+- coronavirus
+- covid
+- corona
+- corona virus
+- pregnant 
+- woman
+- child
+- chances 
+- in baby
 
 ## intent:testing_centers
-- private testing labs
-- any lab for test
-- where test performed
-- where are labs
-- test in private labs
-- test in hospitals
+- coronavirus
+- covid
+- corona
+- corona virus
+- private 
+- testing lab
+- any 
+- lab 
+- test
+- where test 
+- performed
+- where are 
+- private lab
+- test in 
+- hospitals
 
 ## intent:corona_survive
-- corona virus survive in air
-- corona virus survive on surface &  objects & things
-- corona virus survive or stay on furniture,door,knob,other things
-- how long can the corona virus stay
+- coronavirus
+- covid
+- corona
+- corona virus
+- survive 
+- in air
+- on surface   
+- object
+- thing
+- stay  
+- furniture
+- door
+- knob
+- how long 
+- how much time
 
 ## intent:corona_goods
-- goods,material exported
+- coronavirus
+- covid
+- corona
+- corona virus
+- goods
+- material 
 - goods from china
-- corona  materials or things from china,korea,america
-- how long can the corona virus stay
+- exported
+- other country
+- object
+- item 
 
 ## intent:corona_animals
-- spread from animals
-- non vegetarian food
-- meat,egg
+- coronavirus
+- covid
+- corona
+- corona virus
+- spread from
+- animals
+- non vegetarian
+- food
+- meat
+- egg
 - fish
 - infected animal
-- infected fish,hen
+- hen
+- nonveg
+- non veg
 
 ## intent:wash_hands
-- how hand wash
-- wash hand
-- clean hands
+- coronavirus
+- covid
+- corona
+- corona virus
+- how 
+- hand wash
+- wash
+- clean 
+- hand
 - nails
 - wrist
 - palm
+
 ## intent:time_wash
-- time for wash
-- how much delay
-- interval for hand wash
-- time interval between wash
+- coronavirus
+- covid
+- corona
+- corona virus
+- time  wash
+- how much 
+- delay
+- interval 
+- time 
+- interval
+- what 
+- how 
+- between 
+- wash
+- gap
 
 ## intent:mask_wear
-- mask necessary
-- wear mask
+- coronavirus
+- covid
+- corona
+- corona virus
+- mask 
+- necessary
+- wear 
 - when wear
-- mask use
-- use of mask
-- which mask
+- use 
+- which type of mask
 - what type of mask
-- n95 mask-everyone wear mask
+- n95 
+- everyone
 
 ## intent:mask_change
+- coronavirus
+- covid
+- corona
+- corona virus
 - how long mask
-- mask change
-- when change mask
+- mask 
+- when
+- time
+- symptoms
+- infection
+- how much 
+  
 
 ## intent:colleauge
+- coronavirus
+- covid
+- corona
+- corona virus
 - colleauge
 - office
-- colleauge infected
+- colleauge 
+- infected
 - office staff
+- infection
+- symptoms
+- have 
 
 ## intent:hospitals_infected
--  visit hospitals
-- safe to visit hospitals
-- hospitals with infected patients
-- hospitals having infected patients
+- coronavirus
+- covid
+- corona
+- corona virus
+- visit 
+- hospitals
+- safe 
+- infected patients
+- symptoms
+- infection
 
 ## intent:temperature_effect
-- effect of temperature
-- in summer
-- hot temperature
-- increase temperature
-- humidity effect
-- humid weather
+- coronavirus
+- covid
+- corona
+- corona virus
+- effect 
+- temperature
+- summer
+- hot
+- increase 
+- humidity 
+- humid
 - weather
 - rain
 
 ## intent:avoid_malls
+- coronavirus
+- covid
+- corona
+- corona virus
 - malls
 - restaurants
-- avoid malls,park,restaurants
+-  malls
+- park
+- restaurants
+- crowd
+- market
+- office
 
 ## intent:social_distancing
-- social distncing best way
-- necessary social distancing
-- keep social distancing
+- coronavirus
+- covid
+- corona
+- corona virus
+- best way
+- social distancing
+- keep 
+- necesaary
+- what is social
 
 ## intent:yoga
-- yoga pranayam
-- immunity rise by yoga
-- yoga help in
+- coronavirus
+- covid
+- corona
+- corona virus
+- yoga 
+- pranayam
+- immunity 
+- rise  
+- yoga 
+- yoga
 
 ## intent:blood_donor
-- blood donation
+- coronavirus
+- covid
+- corona
+- corona virus
+- blood 
+- donation
 - risk if donate
-- blood donor
+- blood 
+- donor
+- risk 
 
 ## intent:drink_hot
-- drink hot things
-- drink hot water
+- coronavirus
+- covid
+- corona
+- corona virus
+- drink 
+- hot things 
+- hot 
+- water
 
 ##intent:soap_sanitizers
-- soap better
-- sanitizer better
-- which one better soap
-- sanitizer not available
-- soap kill
+- coronavirus
+- covid
+- corona
+- corona virus
+- soap 
+- which is better
+- which one better 
+- sanitizer 
+- not 
+- available
+- present
+- kill
+- better
+- sanitizer
+- alcohol
+- hand wash
+- wash
+- alternative
+- hand 
+- which
 
 ## intent:clean_door
-- door knobs clean
-- clean surface with sanitizer
+- coronavirus
+- covid
+- corona
+- corona virus
+- door 
+- knobs 
+- clean 
+- surface 
+- with sanitizer
 
 ## intent:cloth_infection
-- cough droplets on clothes
-- clothes infection
-- infection from handkerchief or clothes
+- coronavirus
+- covid
+- corona
+- corona virus
+- cough 
+- droplets 
+- clothes
+- infection
+- handkerchief 
 
 ## intent:precaution_pregnant
-- pregnant protection from
-- steps for pregnant
+- coronavirus
+- covid
+- corona
+- corona virus
+- pregnant 
+- protection 
+- steps 
+- special 
+- precaution
+- what should  
+- steps
+- prevention
+- what steps
+- symptoms
+- have
+- infection
+- infected
+- preventive measure  
+- lady
 
 ## intent:flight
+- coronavirus
+- covid
+- corona
+- corona virus
 - flight
-- go on airport
+- airport
+- travel
 
 ## intent:immunity_indians
-- indian immunity
-- indians more immune
-- no risk to indians
+- indian 
+- immunity
+- more immune
+- no risk 
+- indians
+- us
 
 ## intent:smoking
+- coronavirus
+- covid
+- corona
+- corona virus
 - smoking
 - cigarette
 - smoke
@@ -248,159 +607,331 @@
 - tobacco
 
 ## intent:alcohol
-- alcohol drink
-- alcohol consumption
-- alcohol consume
-- alcohol kill corona
+- coronavirus
+- covid
+- corona
+- corona virus
+- drink
+- alcohol 
+- consumption
+- consume
+- alcohol 
+
 
 ## intent:when_test
+- coronavirus
+- covid
+- corona
+- corona virus
 - who should test
-- may i test for
+- may i test 
 - should i test
-- differ from cold or flu and corona
 - normal fever
+- who have to test
+- i
+- test
 
 ## intent:emergency_symptoms
 - emergency
-- become danger
-- when contact doctor
-- risk from corona
+- coronavirus
+- covid
+- corona
+- corona virus
+-  danger
+- when to  contact 
+- doctor
+- contact
 
 ## intent:stigma
+- coronavirus
+- covid
+- corona
+- corona virus
 - stigma
 - fight
 - hurt
-- spread misinformation
+- misinformation
 - rumour
 - social sites
 
 ## intent:funeral
-- can go to funeral
+- coronavirus
+- covid
+- corona
+- corona virus
+- funeral
 - attend funeral
 - cremation
 
 ## intent:deabody
+- coronavirus
+- covid
+- corona
+- corona virus
 - touch deadbody
+- deadbody
+- touch
 - touch infected dead
 
 ## intent:pets
-- touch pets
+- coronavirus
+- covid
+- corona
+- corona virus
+- touch 
+- pets
 - concern about pets
+- pet dog
+- pet 
+- cat
+- cow
+- milk
 
 ## intent:infected_pets
--  dog
--  parrot
--  cat
+- coronavirus
+- covid
+- corona
+- corona virus
+- touch 
+- pets
+- concern about pets
+- pet dog
+- pet 
+- cat
+- avoid
+- keep distance from 
+- dog
+- parrot
+- cat
+- cow
 
 ## intent:eat_nonveg
-- eat non veg
+- coronavirus
+- covid
+- corona
+- corona virus
+- eat 
+- non veg
 
 ## intent:currency
+- coronavirus
+- covid
+- corona
+- corona virus
 - currency notes
 - credit card
 
 ## intent:drink_water
+- coronavirus
+- covid
+- corona
+- corona virus
 - water cure
 - hydration
+- drink
+- water
 
 ## intent:lighltly
-- lightly spread in our country or India
+- coronavirus
+- covid
+- corona
+- corona virus
+- lightly spread in our country 
+- spread in India
 
 ## intent:breat_milk
-- breast milk
-- breast feeding
+- coronavirus
+- covid
+- corona
+- corona virus
+- breast
+- milk
+- feed
+- feed milk 
+- baby 
+ 
 
 ## intent:protect_children
-- make safe children
-- protect child
+- coronavirus
+- covid
+- corona
+- corona virus
+- make safe
+- children
+- risk in children 
+- safe
+- protect 
+- children
+- child
 
 ## intent:symptoms_children
-- low symptoms in children
-- mild symptoms in children
+- coronavirus
+- covid
+- corona
+- corona virus
+- low symptoms 
+- children
+- mild symptoms 
+- children
 
 ## intent:school_dismissal
-- school dismissal
-- school leave
+- coronavirus
+- covid
+- corona
+- corona virus
+- dismissal
+- leave
 - tution
 - go to school
 
 ## intent:study_loss
 -  study loss
-- tution classes
-- coaching classes
+- tution 
+- class
+- coaching 
 - exams
+- online class
 
 ## intent:water_spreading
-- water spread it
-- drink pure water
+- coronavirus
+- covid
+- corona
+- corona virus
+- water 
+- spread 
+- drink 
+- pure water
 - ro water
 - role of water
+- through
 
 ## intent:pool
+- coronavirus
+- covid
+- corona
+- corona virus
 - swimming pool
 - tubs
 
 ## intent:sewarage
+- coronavirus
+- covid
+- corona
+- corona virus
 - sewer line
 - sewerage water
 - waste water
 
 ## intent:hiv
-- risk for hiv patient
+- coronavirus
+- covid
+- corona
+- corona virus
+- hiv patient
 
 ## intent:hiv_medicine
-- hiv medicine treat
-- hiv medicine cure
+- coronavirus
+- covid
+- corona
+- corona virus
+- hiv medicine 
 
 ## intent:asthama
-- asthama patient
+- coronavirus
+- covid
+- corona
+- corona virus
+- asthama
 - have asthama
-- risk for asthama
+- risk for asthama 
+- asthama patient
 
 ## intent:origin
-- where corona start
-- from which country
-- from animal
-- how start
+- coronavirus
+- covid
+- corona
+- corona virus
+- from where 
+- start
+- from which 
+- country
+- originate from animal
+- how it start
 - source of corona
 - start from china 
-- major countries
-- countries 
+- how it 
 - spread in countries
+- outbreak
 
 ## intent:how_test
+- coronavirus
+- covid
+- corona
+- corona virus
 - how corona test
-- what sample of corona
+- sample of corona
+- how 
+- i get
+- tested
+- corona test
 
 ## intent:test_cost
-- cost of test
+- coronavirus
+- covid
+- corona
+- corona virus
+- cost 
+- test
 - free test 
-- charge of test
+- charge 
 - charges the test
-- in government lab test is 
+- in government lab  
 - chargeable
 - free
-- money in test
+- money 
+
 
 ## lookup:self_go
-- may I go directly for test
-- home sample collection
-- i need to go lab or testing center
+- coronavirus
+- covid
+- corona
+- corona virus
+- may i go 
+- for test
+- directly for test
+- home 
+- sample collection
+- need to go lab 
+- go to lab
 - pcr van 
-- any facility for test 
+- any facility 
 
 ## intent:test_strategy
-- priority of test
-- strategy of test
-- who will test first
-- in how many days my report come 
+- coronavirus
+- covid
+- corona
+- corona virus
+- priority 
+- test
+- strategy 
+- whom tested
+-  how many 
+- days 
+- report 
 
 ## intent:test_process
-- complete process of test 
-- test process
-- time taken in test
-- time in test
-- stages of test
+- coronavirus
+- covid
+- corona
+- corona virus
+- complete 
+- process of test
+- test 
+- process
+- time 
+- time taken
+- stages 
 - screening 
-- how test performed
-- how much time in test
+- how
+- test performed
+- how much time 
